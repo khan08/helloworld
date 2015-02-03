@@ -1,2 +1,2 @@
 # helloworld
-tests
+test
